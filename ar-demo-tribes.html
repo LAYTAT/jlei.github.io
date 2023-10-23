@@ -9,10 +9,37 @@
 <body>
 <a-scene vr-mode-ui='enabled: false' arjs='sourceType: webcam; videoTexture: true; debugUIEnabled: false' renderer='antialias: true; alpha: true'>
     <a-camera gps-new-camera='gpsMinDistance: 5'></a-camera>
-    <a-entity material='color: red' geometry='primitive: box' gps-new-entity-place="latitude: 47.60044085522263; longitude: -122.38571943888068" scale="10 10 10"></a-entity>
-    <a-entity material='color: yellow' geometry='primitive: sphere' gps-new-entity-place="latitude: 43.65625539181551; longitude: -79.39957284229115" scale="10 10 10"></a-entity>
-    <a-entity material='color: blue' geometry='primitive: cylinder' gps-new-entity-place="latitude: 40.50243197313075; longitude: -74.25166359436211" scale="10 10 10"></a-entity>
-    <a-entity material='color: green' geometry='primitive: sphere' gps-new-entity-place="latitude: 36.607820906664; longitude: -112.67499554535657" scale="10 10 10"></a-entity>
+    <a-entity material='color: red' geometry='primitive: box' gps-new-entity-place="latitude: 47.60044085522263; longitude: -122.38571943888068;" scale="10 10 10"></a-entity>
+    <a-text
+        value="Duwamish Head"
+        look-at="[gps-camera]"
+        scale="10 10 10"
+        gps-entity-place="latitude: 47.60044085522263; longitude: -122.38571943888068;"
+      ></a-text>
+
+    <a-entity material='color: yellow' geometry='primitive: sphere' gps-new-entity-place="latitude: 43.65625539181551; longitude: -79.39957284229115;" scale="10 10 10"></a-entity>
+    <a-text
+        value="Inuit Tribe"
+        look-at="[gps-camera]"
+        scale="10 10 10"
+        gps-entity-place="latitude: 43.65625539181551; longitude: -79.39957284229115;"
+      ></a-text>
+
+    <a-entity material='color: blue' geometry='primitive: cylinder' gps-new-entity-place="latitude: 40.50243197313075; longitude: -74.25166359436211;" scale="10 10 10"></a-entity>
+    <a-text
+        value="Lenape Tribe"
+        look-at="[gps-camera]"
+        scale="10 10 10"
+        gps-entity-place="latitude: 40.50243197313075; longitude: -74.25166359436211;"
+      ></a-text>
+
+    <a-entity material='color: green' geometry='primitive: sphere' gps-new-entity-place="latitude: 36.607820906664; longitude: -112.67499554535657;" scale="10 10 10"></a-entity>
+    <a-text
+        value="Havasupai Tribe"
+        look-at="[gps-camera]"
+        scale="10 10 10"
+        gps-entity-place="latitude: 36.607820906664; longitude: -112.67499554535657;"
+      ></a-text>
   </a-scene>
 </body>
 </html>
