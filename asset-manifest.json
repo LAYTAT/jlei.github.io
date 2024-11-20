@@ -1,20 +1,24 @@
 {
   "files": {
     "main.css": "/static/css/main.9c9140c2.chunk.css",
-    "main.js": "/static/js/main.76820c5c.chunk.js",
-    "main.js.map": "/static/js/main.76820c5c.chunk.js.map",
+    "main.js": "/static/js/main.117b1db9.chunk.js",
+    "main.js.map": "/static/js/main.117b1db9.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.3fdae03d.js",
     "runtime-main.js.map": "/static/js/runtime-main.3fdae03d.js.map",
-    "static/js/2.7209acc8.chunk.js": "/static/js/2.7209acc8.chunk.js",
-    "static/js/2.7209acc8.chunk.js.map": "/static/js/2.7209acc8.chunk.js.map",
+    "static/js/2.06304b8f.chunk.js": "/static/js/2.06304b8f.chunk.js",
+    "static/js/2.06304b8f.chunk.js.map": "/static/js/2.06304b8f.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.b7723f2f5beb142e118d8844cfa67273.js": "/precache-manifest.b7723f2f5beb142e118d8844cfa67273.js",
+    "precache-manifest.778233b46fb3a479ae9f24080c0dc18c.js": "/precache-manifest.778233b46fb3a479ae9f24080c0dc18c.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.9c9140c2.chunk.css.map": "/static/css/main.9c9140c2.chunk.css.map",
-    "static/js/2.7209acc8.chunk.js.LICENSE.txt": "/static/js/2.7209acc8.chunk.js.LICENSE.txt",
+    "static/js/2.06304b8f.chunk.js.LICENSE.txt": "/static/js/2.06304b8f.chunk.js.LICENSE.txt",
+    "static/media/AWS-Dev-Associate.png": "/static/media/AWS-Dev-Associate.51df0293.png",
+    "static/media/AWS-Network-Spec.png": "/static/media/AWS-Network-Spec.7c4b97aa.png",
     "static/media/AWS-SolArchitect-Associate.png": "/static/media/AWS-SolArchitect-Associate.7aa06c03.png",
+    "static/media/AWS-SolArchitect-Pro.png": "/static/media/AWS-SolArchitect-Pro.33991edb.png",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/ECUST_LOGO.png": "/static/media/ECUST_LOGO.405e11b8.png",
+    "static/media/UF_LOGO.png": "/static/media/UF_LOGO.2e433749.png",
     "static/media/aws_logo.png": "/static/media/aws_logo.946b35ec.png",
     "static/media/bauddhikgeeks-transparent.png": "/static/media/bauddhikgeeks-transparent.074c759b.png",
     "static/media/bauddhikgeeks.png": "/static/media/bauddhikgeeks.f2d490dc.png",
@@ -49,8 +53,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.3fdae03d.js",
-    "static/js/2.7209acc8.chunk.js",
+    "static/js/2.06304b8f.chunk.js",
     "static/css/main.9c9140c2.chunk.css",
-    "static/js/main.76820c5c.chunk.js"
+    "static/js/main.117b1db9.chunk.js"
   ]
 }

@@ -1,31 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "439f1ffe2962087d565cdc06fa5d6aff",
+    "revision": "1733f7767a404c82d847ce0bac19e2d4",
     "url": "/index.html"
   },
   {
-    "revision": "9c2b6aeb23423f6ff162",
+    "revision": "998088081239f722da8f",
     "url": "/static/css/main.9c9140c2.chunk.css"
   },
   {
-    "revision": "cd7e184b4f22d6ae2726",
-    "url": "/static/js/2.7209acc8.chunk.js"
+    "revision": "4ca876f47e762b3c4ffd",
+    "url": "/static/js/2.06304b8f.chunk.js"
   },
   {
     "revision": "c21d579849576bf6a47550572ff70f62",
-    "url": "/static/js/2.7209acc8.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.06304b8f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9c2b6aeb23423f6ff162",
-    "url": "/static/js/main.76820c5c.chunk.js"
+    "revision": "998088081239f722da8f",
+    "url": "/static/js/main.117b1db9.chunk.js"
   },
   {
     "revision": "8b906cca1f2a652d20a8",
     "url": "/static/js/runtime-main.3fdae03d.js"
   },
   {
+    "revision": "51df029381ce2af2ae7fc77529c10785",
+    "url": "/static/media/AWS-Dev-Associate.51df0293.png"
+  },
+  {
+    "revision": "7c4b97aa1d4ff76d44ede96faad9790f",
+    "url": "/static/media/AWS-Network-Spec.7c4b97aa.png"
+  },
+  {
     "revision": "7aa06c03b6dcebdc6e3c77122e6b6204",
     "url": "/static/media/AWS-SolArchitect-Associate.7aa06c03.png"
+  },
+  {
+    "revision": "33991edbd1eb107a5076adbfc4a32e91",
+    "url": "/static/media/AWS-SolArchitect-Pro.33991edb.png"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -62,6 +74,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "/static/media/Montserrat-Regular.ee653992.ttf"
+  },
+  {
+    "revision": "2e433749c6e33bac116b88e6be7fa379",
+    "url": "/static/media/UF_LOGO.2e433749.png"
   },
   {
     "revision": "946b35ec18339646ab61fb624d5fea0a",
